@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd52e3f695b4e9e47b76b79973dfa1fa
+timeCreated: 1443473537
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 149148, guid: f1ade076158772646bf367c4595da0ff, type: 2}
+  - counter: {fileID: 108032, guid: f9595af9a7bd5da4f94427f14ecff9b7, type: 2}
+  - LevelClearScreen: {instanceID: 0}
+  - touchControls: {instanceID: 0}
+  - tManagerScript: {instanceID: 0}
+  - yourTime: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

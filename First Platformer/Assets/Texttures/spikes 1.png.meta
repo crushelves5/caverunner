@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 17ccf9c8dd3a3d747a59c36db7f1ea98
+timeCreated: 1445390620
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spikes 1_0
+    21300002: spikes 1_1
+    21300004: spikes 1_2
+    21300006: spikes 1_3
+    21300008: spikes 1_4
+    21300010: spikes 1_5
+    21300012: spikes 1_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: spikes 1_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 678
+        width: 192
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 386
+        width: 191
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 518
+        width: 188
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 304
+        width: 112
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 279
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 52
+        width: 188
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes 1_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 122
+        width: 188
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
